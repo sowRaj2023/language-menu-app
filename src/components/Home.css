@@ -1,0 +1,9 @@
+.home-image{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 25px;
+}
+
+.home-description{
+    text-align: center;
+}

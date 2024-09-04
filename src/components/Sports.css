@@ -1,0 +1,9 @@
+.sports-image{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 25px;
+}
+
+.sports-description{
+    text-align: center;
+}

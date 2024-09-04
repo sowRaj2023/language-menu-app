@@ -1,0 +1,9 @@
+.live-image{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 25px;
+}
+
+.live-description{
+    text-align: center;
+}

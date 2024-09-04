@@ -1,0 +1,9 @@
+.movies-image{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 25px;
+}
+
+.movie-description{
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.tv-shows{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 25px;
+}
+
+.description{
+    text-align: center;
+}
